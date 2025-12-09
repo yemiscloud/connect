@@ -19,7 +19,7 @@ JavaScript, HTML5, CSS3, React, Next.js
 TailwindCSS, CSS Modules, Responsive Design
 
 **Tools:**  
-Git, GitHub, VS Code, Vite, Figma, REST APIs
+Git, GitHub, VS Code, Vite, Stitch, REST APIs
 
 ---
 
@@ -27,12 +27,12 @@ Git, GitHub, VS Code, Vite, Figma, REST APIs
 Here are some projects you can pin on your GitHub profile (replace with your real links):
 
 - 🌐 **Project Name** — short description  
-  👉 *Live:* https://your-live-link  
-  👉 *Code:* https://github.com/your-repo
+  👉 *Live:* https://qode.likesyou.org  
+  👉 *Code:* https://github.com/qode
 
 - 📱 **Project Name** — short description  
-  👉 *Live:* https://your-live-link  
-  👉 *Code:* https://github.com/your-repo
+  👉 *Live:* https://moonlight.page.gd  
+  👉 *Code:* https://github.com/moontalent
 
 ---
 
@@ -45,9 +45,9 @@ Here are some projects you can pin on your GitHub profile (replace with your rea
 ---
 
 ### 📫 Contact
-**Portfolio:** *Add your link here*  
+**Portfolio:** *https://yemiscloud.github.io/*  
 **GitHub:** https://github.com/adeyemiscloud  
-**Email:** *add your email here*  
+**Email:** *yemisam.de@gmail.com*  
 
 ---
 
